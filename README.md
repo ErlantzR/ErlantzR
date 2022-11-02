@@ -2,6 +2,7 @@
 
 - Recently graduated at Makers Academy (16-week intensive software bootcamp)
 - Looking for my first job as Junior Developer
+- Currently learning Java
 - Please, take a look at my [Github CV](https://github.com/ErlantzR/CV) and/or my [Linkedin profile](https://www.linkedin.com/in/erlantz-ramos-b82b83150/)
 ---
 ### Tech Skills:
